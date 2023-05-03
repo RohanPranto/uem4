@@ -16,7 +16,7 @@ export default function Login() {
               </button>
               <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                 <Link className="dropdown-item" to="/about">Student</Link>
-                <Link className="dropdown-item" to="/about">Teacher & Stuff</Link>
+                <Link className="dropdown-item" to="/about">Teacher & Staff</Link>
               </div> <br/><br/>
               <label>
                 <input type="checkbox" name="remember"/> Remember Me
